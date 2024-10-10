@@ -1,9 +1,7 @@
+# My Awesome Project
+Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
-
-# Revive Church
-
-Revive Church's web app provides an easy-to-use platform for members to stay connected, access resources, and engage with church events and services online.
-**Link to project:** https://revive-church.netlify.app/
+**Link to project:** http://recruiters-love-seeing-live-demos.com/
 
 ![alt tag](http://placecorgi.com/1200/650)
 
@@ -30,6 +28,3 @@ Take a look at these couple examples that I have in my own portfolio:
 **Twitter Battle:** https://github.com/alecortega/twitter-battle
 
 **Patch Panel:** https://github.com/alecortega/patch-panel
-
-
-
