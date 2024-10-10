@@ -1,45 +1,32 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
+# Revive Church
 
-- It's built with components from my Responsive Tools project.
+Revive Church's web app provides an easy-to-use platform for members to stay connected, access resources, and engage with church events and services online.
+**Link to project:** https://revive-church.netlify.app/
 
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
+![alt tag](http://placecorgi.com/1200/650)
 
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
+## How It's Made:
 
-  (* = still entirely optional if you prefer vanilla CSS :)
+**Tech used:** HTML, CSS, JavaScript, Framework of choice
 
-- A ton of other stuff.
+Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
 
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
+## Optimizations
+*(optional)*
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
 
-(* = not included)
+## Lessons Learned:
 
-AJ
-aj@lkn.io | @ajlkn
+No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
 
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
 
-Credits:
+**Palettable:** https://github.com/alecortega/palettable
 
-	Demo Images:
-		Unsplash (unsplash.com)
+**Twitter Battle:** https://github.com/alecortega/twitter-battle
 
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+**Patch Panel:** https://github.com/alecortega/patch-panel
