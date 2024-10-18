@@ -1,4 +1,4 @@
-# My Awesome Project
+# Revive
 
 Revive Church's web app provides an easy-to-use platform for members to stay connected, access resources, and engage with church events and services online.
 
