@@ -22,7 +22,7 @@ One key thing I learned while building the Revive Church web app is how to balan
 
 ## Examples:
 
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at my other projects here:
 
 **Bandit:** https://github.com/gdanny94/Bandit
 
