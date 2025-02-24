@@ -1,4 +1,6 @@
 # Revive
+![reviveChurchGIF](https://github.com/user-attachments/assets/a0d3cf2e-73e5-4dc3-9971-21438e4df827)
+
 
 Revive Church's web app provides an easy-to-use platform for members to stay connected, access resources, and engage with church events and services online.
 
